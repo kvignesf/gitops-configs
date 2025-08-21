@@ -19,7 +19,7 @@ commonAnnotations:
 # Centralized image management
 images:
   - name: kvignesf/frontend
-    newTag: v1
+    newTag: latest
   - name: kvignesf/backend
     newTag: latest
   - name: postgres
